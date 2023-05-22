@@ -1,2 +1,2 @@
 # github_vantan_conflict_confirmation
-gitテスト確認
+##　今日行ったgithubのconflictを修正するという授業の復習のリポジトリです。
