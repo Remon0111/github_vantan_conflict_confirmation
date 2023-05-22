@@ -1,3 +1,4 @@
 # github_vantan_conflict_confirmation
 - githubでconflictをするテストは学校ではうまく行ったので今回もうまくいくといいなと思っています。
 - 今回の授業でほとんど暗記できたのでできると思います。
+##　今日行ったgithubのconflictを修正するという授業の復習のリポジトリです。
