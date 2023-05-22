@@ -1,0 +1,2 @@
+# github_vantan_conflict_confirmation
+gitテスト確認
