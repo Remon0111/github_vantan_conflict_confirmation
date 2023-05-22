@@ -1,2 +1,3 @@
 # github_vantan_conflict_confirmation
-gitテスト確認
+- githubでconflictをするテストは学校ではうまく行ったので今回もうまくいくといいなと思っています。
+- 今回の授業でほとんど暗記できたのでできると思います。
